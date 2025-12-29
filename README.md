@@ -2,6 +2,8 @@
 
 A demonstration application showcasing digitalization and process automation for small and medium enterprises (SMEs).
 
+Demo link: https://eclectic-rugelach-5ef0f8.netlify.app/
+
 ## Overview
 
 This is a realistic demo of an internal web application for a small publishing company. It demonstrates how manual processes (spreadsheets, email coordination) can be replaced with a digital system.
